@@ -12,3 +12,5 @@ Para iniciar o frontend, navegue até a pasta `frontend` e execute:
 ```
 npx serve -l 3000
 ```
+
+LINK VIDEO: https://youtu.be/yCq5HfG_gQY
